@@ -1,0 +1,804 @@
+Title,No. of answers,No. of views,No. of votes,Users,Reputation,Time_stamp,Summary
+Is |R∞|=|R| [duplicate],1,58,0,real-analysis,"1,267",2023,"Is |R∞|=|R|
+
+I started reading Rudin's principle of mathematical analysis and I read this theorem
+
+2.13 Theorem Let A be a countable set, and let Bn be the set of ..."
+Find PMF for a function of random variable,1,36,0,probability,13,2023,"Let Y=XX+1
+where:
+
+Y and X are random variables,
+fX(x) is the probability mass function (PMF) of X, defined as:
+$ f_X(x) = \frac{1}{3} \left(\frac{2}{3}\right)^x \cdot \mathbf{..."
+Does Bezout' lemma imply the following?,0,68,0,elementary-number-theory,315,2023,"Let y,t be relatively prime nonzero integers.
+Then as per Bezout's lemma, there are infinitely many integers a,b such that
+at+by=1
+Let x be an arbitrary positive integer. Then we have
+$$t(ax+..."
+Another box of counters probability question,0,42,0,probability,101,2023,"Is this problem solvable, if so what is the answer?
+A box of counters contains 16 balls: 4 red; 5 yellow and 7 blue.
+If one more ball is added to the box, I would then have a 1 in 4 chance of picking ..."
+Is this inequality related to |logζ(s)| wrong?,1,89,1,complex-analysis,485,2023,"This is a doubt in the Littlewood's first estimate(in which it is assumed that Riemann hypothesis is true)  given in this book, page 433.
+Let s=σ+it and δ such that $\frac12 + \..."
+Solving a question about equivalent norms,1,77,0,linear-algebra,113,2023,"I have been trying to check whether the topologies induced by two norms on Hilbert space are different. So I thought by checking (topological) equivalence of the two norms, I could solve the problem: ..."
+Implementing the π BBP algorithm,0,74,0,real-analysis,245,2023,"The formula
+π=∞∑k=0116k(48k+1−28k+4−18k+5−18k+6)
+is a basis of the BBP algorithm for calculating arbitrary ..."
+Four different positive integers whose reciprocals sum to 1,1,28,0,egyptian-fractions,"1,757",2023,"https://oeis.org/A006585 says
+
+The 6 solutions for n=4 are 2,3,7,42; 2,3,8,24; 2,3,9,18; 2,3,10,15; 2,4,5,20; 2,4,6,12.
+
+How would one prove 42 is indeed the largest here? And/or this list is ..."
+What is the symmetry group S3 asked in this question my professor gave us?,1,87,0,group-theory,91,2023,"We are following the book Abstract Algebra: An Introduction by W. Hungerford in my Group Theory class and my professor asked this exact question on the quiz:
+$S_3 = \langle a, b \mid a^3 = b^2 = 1, ..."
+Minimal length in the free homotopy class as translation length,0,22,3,metric-spaces,"1,005",2023,"Let M be a compact Riemannian manifold. The fundamental group π1(M,p0) is isomorphic to the group of deck transformations of the universal cover π:˜M→M. The translation ..."
+Precedure to generate a inverse for a not square matrix,1,33,0,linear-algebra,372,2023,"We know that if a matrix is m∗n which m=n then it has an inverse if its full rank.
+But the interesting fact for me is about non-square matrixes, which m≠n, and also I searched on the whole ..."
+Holomorphic function extending the conjugation on a line,0,27,0,complex-analysis,299,2023,"One of the first examples of a (real smooth) non holomorphic function on C is complex conjugation: f(z)=¯z is never holomorphic. My question is the following.
+Is there a ..."
+"∑an diverges ⟺ for every (bn)⊂R s.t. ∑bnan diverges, ∑bnan+1 diverges also, and related questions",1,96,1,real-analysis,No detail available,2023,"Suppose (an)n∈N⊂R is decreasing and an>0 ∀n∈N. Then which of the following four implications are true, if any?
+
+$\ \displaystyle\sum_{n\in\..."
+Use historical data to build simple predictive equation,0,9,0,statistics,1,2023,We run an educational course and we start a new cohort on the first business day of every month. A 3rd party sends these students to us and every couple of days they send us a report that tells us how ...
+voronoi diagram has at most quadratic complexity,1,18,1,computational-geometry,11,2023,"I am reading the book ""computational geometry"" by Mark the Berg, Cheong, van Kreveld, Overmars
+(link to the book: https://erickimphotography.com/blog/wp-content/uploads/2018/09/Computational-..."
+Prove basis independence of determinant with Levi-Civita symbol,0,45,1,linear-algebra,331,2023,"Let V be an N-dimensional vector space over C, and A a linear operator on it. Choose a basis {ei} of V, under which A is represented by the matrix Aij (upper/lower ..."
+Statistic Question Normal Distribution [closed],0,19,-2,normal-distribution,1,2023,"Adult males in the U.S. consume, on average, 40 grams of saturated fat per day, with a
+standard deviation of 7 grams. Assume that the amount 𝑋 of saturated fat consumed per day by
+U.S. adult males ..."
+Game Theory and Mr. Beast contest,0,67,0,game-theory,101,2023,"Mr. Beast held a contest in this video https://www.youtube.com/watch?v=0e3GPea1Tyg&t=1295s
+It goes something like where around 500 people compete in a contest to earn around $500,000.
+At certain ..."
+Prove that n∑i=0(−1)i(ni)(kn−kin−1)=0,2,62,1,combinatorics,401,2023,"Given n∑i=0(−1)i(ni)(m−ik+n−1n−1) (which can be interpreted as the number of solution sets to the equation x1+x2+⋯+xn=m where 0≤xi<k), prove that $$\..."
+"If φ is a homomorphism, φ: G⟶G′, |G| and |G'| is finite, then for every g ∈ G, o(φ(g)) | (g.c.d(|G|,|G'|)) [duplicate]",1,50,0,gcd-and-lcm,56,2023,"Assume φ:G⟶G′
+is a homomorphism from G to G′.
+prove:
+if |G|,|G′| is finite then: o(φ(g)|(g.c.d(|G|,|G′|)).
+
+My proof:
+
+φ is homomorphism so we know o(φ(g))|o(g)
+& G is a group so $o(..."
+How to solve the integral ∫π0ln(sin(θ))sin(θ)dθ?,3,214,5,integration,378,2023,"Could you help me with a comprehensive one?  I have tried to solve it but I can't reach the result. The integral I am trying to evaluate is
+∫π0ln(sin(θ))sin(θ)dθand ..."
+Find limx→0x4sin(tan2(x))−tan2(sin(x)) without using a calculation [closed],1,69,-5,calculus,1,2023,"Find the limit
+limx→0x4sin(tan2(x))−tan2(sin(x))
+without using a calculator"
+Laplace transform with scaled time variable,1,27,0,calculus,488,2023,"We know that by definition,
+Lf(t)=∫∞0e−stf(t)dt. But how is Lf(at)=∫∞0e−stf(at)dt? Shouldn't e−st be replaced by e−s(at)  in the 2nd case since at ..."
+Bounding ceiling functions,1,29,0,inequality,157,2023,"I am working on a function which I want to find a nice lower bound for it. The function is
+$$
+\left(\lceil \frac{x}{2}\rceil-\left|x-2\lceil\frac{x}{2}\rceil\right|\right)^2, \qquad \text{for }x\geq 0
+..."
+Using Lebesgue's Dominated Convergence Theorem to show convergence of a sequence of random variables,1,42,1,measure-theory,330,2023,"Let ξ and η be random variables on a probability space (Ω,F,P) such that E[|ξ|],E[|η|]<+∞.
+I'd like to show that ξ can be ..."
+Matrix exponentials of Jordan blocks,1,51,3,linear-algebra,41,2023,"Let f:C→C be an analytic function1.  Let λ∈C and let $$
+J=\begin{pmatrix}
+\lambda & 1 &  & &\\
+ &\ddots& \ddots \\
+ &  & \ddots& 1\\
+&..."
+Understand big O-notation for random graphs?,1,62,1,probability,79,2023,I was reading a bit in the book High-dimensional probability theory by Roman Vershynin and I was trying to do Exercise 2.4.2 and I do think I still have some misunderstandings regarding the statement ...
+Mobius function on a product of Posets is the product of the mobius function on each poset,0,11,0,order-theory,41,2023,"I'm trying to prove that μP×Q((p1,q1),(p2,q2))=μP(p1,p2)μQ(q1,q2), and my attempt is by induction. By definition, I get that:
+$\mu_{P\times Q}((p_1,q_1),(p_2,q_2))=-\..."
+"Show that 1/2⋅(1−2x)3log(1−2x)−(1−x)3log(1−x)+x3logx is positive for x∈(0,1/2)",2,73,3,real-analysis,133,2023,"Define f(x)=1/2⋅(1−2x)3log(1−2x)−(1−x)3log(1−x)+x3logx.
+I want to show f(x)>0 for all x∈(0,1/2), which I believe is true from plotting, but I'm not sure how to ..."
+Extranatural transformations are a special case of dinatural transformations,1,45,2,category-theory,501,2023,"Recently I have been trying to understand extranatural and dinatural transformations. Here are the definitions I am working with.
+From the nLab:
+
+Let F:A×B×Bop→D and $G:A\times C\..."
+infinite homotopy classes of maps between finite simplicial complexes,1,35,0,algebraic-topology,"1,058",2023,"This post proves that there are at most countably many homotopy classes of maps |K|→|L| for finite simplicial complexes K and L.
+Can you give an example that there are countably infinite many ..."
+Integral of birth-death process up to stopping time,0,24,0,probability-theory,121,2023,"We are trying to find the average sum of branches on a tree representing a birth-death process, with fixed birth and death parameters.
+Let Xt be the number of individuals at time t≥0, with $..."
+Connected components of real matrices such that M2=I,1,72,3,linear-algebra,819,2023,"Suppose that S is the set of all real n×n matrices A such that
+A2=In. Since these matrices are diagonalizable with ±1 as eigenvalues, we get the partition $S=\cup_{0\leq k \leq n} ..."
+Schur functors = Weyl functors in characteristic zero?,0,30,3,abstract-algebra,556,2023,"In the paper `Schur functors and Schur complexes' by Akin et al., the notion of a Schur functor had been defined for the first time over an arbitrary commutative ring R.
+To recall the definition (I ..."
+Find the area of a region defined by a complex inequation.,2,56,2,inequality,21,2023,"I just did a Calculus 1 test and I couldn't solve the first question, which goes as follows:
+
+Find the area of the region defined by:
+
+|z+12ˉz|≤7
+I tried to use z=a+bi..."
+How do I find the inverse of 13 in Z*19? [duplicate],0,57,-2,elementary-number-theory,1,2023,My math teacher keeps giving us problems but never teaching us how to do it. I'm so confused can someone explain how to find the inverse in this group theory problem? I honestly don't know what this ...
+Is my method a good one for evaluating ∫10(x+2i√xtan(x))(x−2i√xtan(x))cos(x)−2cos(x)dx,2,82,1,calculus,"1,945",2023,"So I have a younger friend of mine (who I've mentioned before) who loves math, especially when it comes to integrals, and will sometimes give me (somewhat) abominations of integrals which I'm usually ..."
+Inequality involving the imaginary part of a Hermitian inner product,1,70,0,partial-differential-equations,61,2023,"I am reading some lectures notes about microlocal analysis and I do not understand how an inequality is actually found.
+Let Dx=−i∂x, u∈D′(R) and $\chi = 1_{[-1,1]..."
+Connectivity of P2C curves [duplicate],0,12,0,algebraic-geometry,21,2023,"I have a question related to the document “plane algebraic curves” from Andreas Gathmann:
+At page 37 Remark 5.12 (topology of complex curves), it is written:
+let F be a smooth projective curve over C (..."
+Solve sin(narctan(√15))=√152n+1,1,63,2,complex-numbers,"1,355",2023,"The original problem : Given that a1=a2=1 and an+2−an+1+4an=0 for n∈N, find all n such that an=1.
+I got the following expression for an :
+$$ ..."
+Prooving the possibilty of factor cancelation in a congruence equation [closed],1,29,-2,modular-arithmetic,17,2023,"How can one prove that a∗c≡b∗cmod(n∗c) equals a≡bmod(n), the only thing I know thus far is that factor cancellation is only allowed if gcd(a,n)=1 i.e when a and n are ..."
+Significance of t-tests and outlieres,1,48,2,statistics,23,2023,"I was performing paired t-tests and came across the example from the R function.
+They show that addition of strong outlier can make the test more compliant about differences:
+..."
+Calculating the area between two plots,0,48,0,integration,223,2023,"I have a series of (x,y) data points where all the Y values are in ascending order. Since these are data points, it is possible to fit a linear, exponential or a polynomial trend line. Given a ..."
+Logical disjunction in elementary toposes,2,106,5,logic,"3,136",2023,"I'm following Goldbaltt's Topoi: The categorial analysis of logic. I use this book's notation, but it is quite standard.
+At some point, he defines disjunction as the morphism
+$$\curlyvee:\Omega\times\..."
+Deduce the density of the sets D and Q,0,89,1,real-analysis,401,2023,"I have a question.
+Let b,n∈N such that b≥2 and n≥1.
+Let's consider the set:
+Qn={kbn,k∈N,0≤k<bn}
+I have proven that ..."
+The symmetry of the isotropic cartesian tensor of Newtonian fluid,0,25,1,tensors,11,2023,"I'm trying to prove the symmetry of the isotropic tensor in the linear relation between the shear stress and strain rate for Newtonian fluid
+$$T_{ij}=\beta_{ijlm}\frac{\partial u_{l}}{\partial x_{m}}.$..."
+Modeling Tetrahedral Numbers,1,67,0,algebra-precalculus,11,2023,"Would the best way to model tetrahedral numbers be:
+
+A quadratic function because the 3rd successive differences are a nonzero constant.
+A cubic function because the 3rd successive differences are a ..."
+Can an imaginary sequence be produced to ease the equation of general term of a series whose common difference is in an AP,0,30,0,sequences-and-series,11,2023,"I came across a problem which follows the series: 2,3,6,11,18 and so on..
+It can be observed that the common difference of the series was in an arithmetic progression..
+Using the regular method of ..."
+Prove that the probability of getting an even number is a strictly decreasing by λ,1,34,1,calculus,55,2023,"Would like to get some ideas for this problem, based on the information I have. The question:
+""The probability of generating a certain number X is Poisson Distributed X∈Poi(λ). ..."
+Show that for any set A and a relation R: R0=IdA,0,29,0,set-theory,33,2023,"We define the power of a relation in the following way:
+R1=R
+R2=R∘R
+R3=R∘R2
+and we want that for every n,m:Rn∘Rm=Rn+m.
+More formally we can also define ..."
+How many intersections does n degree two polynomials have?,1,47,0,polynomials,"1,263",2023,"Given n polynomials fi(x)=aix2+bix+ci, where ai,bi,ci∈R.
+And assume that no two polynomials are identical.
+The minimum number of intersections is 0 since one can let $\..."
+Method for classifying irreducible C-representations of D10 of dimension 2,1,55,1,linear-algebra,946,2023,"D2n={r,s:rn=s2=e,srs=r−1} is the dihedral group with order 2n.
+I'm trying to classify the 2-dimensional irreducible C-representations of D10 up to ..."
+vector orthogonal question about missing steps in lecture notes [closed],0,26,-2,derivatives,1,2023,"Can someone please explain the steps highlight by the blue arrows please thanks!
+hi sorry for the limited info, di are unit directional vectors d1 d2 and d3 , prime means derivative"
+"Suppose p has the property that for any a, b ∈ Z, if p divides ab, then p divides a or p divides b. Is p prime? (p is integer and bigger than 1) [duplicate]",2,92,1,elementary-number-theory,21,2023,"To solve this question, I tried to prove the contraposition of the above statement is true, and then the original statement is also true.
+Here is my solution.
+Original statement: For all p in Z, if {..."
+Hypothesis needed to show that liminfan≤limsupan.,0,44,2,sequences-and-series,41,2023,"I came across this exercise :
+For all sequence (an)n∈N of element in R, establish the following inequality:
+$$\lim_{n \to  +\infty} \inf a_n \leq \lim_{n \to  +\infty} \..."
+Expectation of the Ito integral of a progressively measurable process,1,39,1,probability-theory,"1,326",2023,"I consider ϕ∈H22 the set of progressively measurable process such that
+‖ϕ‖H22=E(∫∞0ϕ2sds)<∞
+I would ..."
+Seeking Assistance on Embeddings of Non-Homogeneous Besov Spaces and a Relation with Hölder Continuous Functions,0,15,0,fourier-analysis,1,2023,"Hello esteemed members,
+I am currently grappling with some properties of non-homogeneous Besov spaces and am seeking guidance or references to aid my understanding.
+Embedding of Besov Spaces: I aim to ..."
+Isometry ⟹ reflection or rotation,1,47,0,linear-algebra,245,2023,"Every isometry that fixes the origin is either a rotation about the origin or a reflection in a line through the origin.
+
+How can I prove this theorem?
+Proving the converse is easy and I know how to ..."
+Single line coupled 2nd order differential equation,1,127,2,calculus,425,2023,"In the paper 2111.05151 that I'm reading, there is a single coupled second-order differential equation (equation 71 in the paper),
+\begin{equation}
+r \ddot{z}_1 = z_1 \ddot{r}, \qquad z_1(v_0) = z_1(..."
+"Prove or disprove: The direct sum of the multiplicative groups Un and Um, (m,n)=1, is multiplicative group.",2,102,2,abstract-algebra,56,2023,"I'm sorry if I am misunderstood. My native language is not English and this is my first time using this site.
+I have home-work, to prove or to disprove the following statement:
+
+Let m,n be natural ..."
+Show that the union occurring in the definition of cantor-sets is disjoint.,0,37,0,analysis,53,2023,"The Cantor set C can also be defined as follows: Let A0:=[0,1] and Ak:=13Ak−1∪13(Ak−1+2) for k∈N. Then $ C=\bigcap_{k=0}^{\infty}..."
+"Is sigma algebra σ(X,Y,X+Y)=σ(X,Y)?",1,89,1,probability-theory,"1,683",2023,"The question above challenged my knowledge of probability theory.
+I knew that σ(X+Y)⊂σ(X,Y), discussion of which can be found for example here
+Is it true that $\sigma(X+Y) \..."
+Mean and variance of the product between a random variable and its integral over time,0,16,0,stochastic-processes,1,2023,"I have a random variable ""x"" distributed according to a given probability model. Let's take N realizations of it. Let's call ""y"" the cumulative sum of the realizations of ""x&..."
+Finding limit of the fraction: limx→11−n√cos2nπx(x−1)(xx−1)? [closed],2,83,0,calculus,159,2023,"The limit of both the numerator and the denominator is 0, but how to find the limit of the fraction limx→11−n√cos2nπx(x−1)(xx−1)
+I tried to use L 'Hospital's rule, ..."
+"Angles Q > P > R are angles of a Triangle, where P, R are acute. What is the minimum value of Q?",0,37,0,geometry,11,2023,"I am not able to understand what is the method to apply for the same. I am able to find out the same via taking k+2>k+1>k, giving me 61>60>59 degrees, but I am not satisfied. kindly guide."
+Steady state temperature in cylinder subjected to a prescribed temperature distribution,0,10,0,heat-equation,"1,419",2023,"My question:
+Obtain an expression for the steady-state temperature distribution T(r,φ) in a long, solid cylinder0≤r≤b,0≤φ≤2π for the following boundary conditions: The ..."
+V∗∗ not isomorphic to V,0,82,0,linear-algebra,631,2023,"I want an example where vector space V is not isomorphic to it's double dual space.
+I took space of sequences which have only finitely many non zero elements as V and show that V∗ is a space of ..."
+Proof check for connectivity of connected components,0,54,1,general-topology,"2,997",2023,Let X be a topological space. Declare x∼y in X whenever x and y are contained in some connected subspace of X. Then it's easily seen to be an equivalence relation. I am trying to show ...
+Using Munkres formulation of the Hopf Trace formula to finish a proof of the Lefschetz Fixed Point Theorem,0,28,0,algebraic-topology,666,2023,"I am very inexperienced with Algebraic Topology but I am trying to put together a proof for the Lefschetz Fixed Point Theorem, that I can understand, for a presentation in class.
+I am following ..."
+Result of non-negativity condition,2,92,1,quadratics,13,2023,"Consider the non-negativity condition f(t)=t2‖v‖2−2t⟨u,v⟩+‖u‖2≥0.  Where u and v are vectors, and t being a real scalar.
+In the process ..."
+"Is x↦(ax+b)/2n in the affine groups of Z×2, Z2 and Q2?",0,31,0,abstract-algebra,"9,093",2023,"Is x↦(ax+b)/2n in the affine groups of Z×2, Z2 and Q2?
+Or what quantification of a,b,n is necessary for f to be the group of invertible affine ..."
+Expectation of some p.d.f. of Normal Distribution,1,47,1,probability,583,2023,"X∼Nn(0,In),Y∼Nn(μ,Σ) where Σ−1 exists, and g is the pdf of Y. Find the expression of EX[g(X)].
+
+This is what I'm trying to solve. (Let f be the pdf of X) ..."
+Alternate definition of the Dirac Delta function,0,56,0,definition,319,2023,"I was reading the wikipedia article on the Dirac Delta function, and what I saw was that the function needed to have a integral over the complete number line to be 1, and have a value of zero ..."
+"How do you build a quadrilateral, knowing it's sides, their order, and that this quadrilateral has an inscribed circle?",0,20,0,euclidean-geometry,33,2023,"I want to build a quadrilateral with sides, for example, 2:3:5:4, knowing that it also has an inscribed circle (which all 4 sides are tangent to). How can you do it for a general case, using only a ..."
+What is the symmetry group of the standard sphere packing?,1,45,1,abstract-algebra,"4,009",2023,"I know this is a very basic question, but I couldn't find an answer with Google:
+What is the symmetry group of the usual sphere packing?
+By the usual one, I mean the FCC lattice or HCP lattice. I am ..."
+Linearly independence of algebraic power series [closed],1,73,0,linear-algebra,11,2023,"Let α be an algebraic power series of degree p satisfying Tαp−Tα+1=0.
+My question is how we can prove that 1,α,α(T+1),α(T+2),...,α(T+p−1) are ..."
+Double finite summations with linked indices: verifying intuitions from tabulation,1,34,1,sequences-and-series,63,2023,"In handling a separate problem (see this post), I've encountered the need to get rid of some double summations where the inner index is linked to the outer one. Having searched for ready-to-use ..."
+"Let x, y, and z be positive real numbers. Prove the following inequality...",1,110,1,inequality,487,2023,"Question
+Let x, y, and z be positive real numbers.  Prove the inequality:
+A. x4+x2+7y+2+y4+y2+7z+2+z4+z2+7x+2>=x+y+z+6
+B.
+$\frac{x^4+x^2+7}{(y+2)^2}+\frac{..."
+Heat transient problem in insulated cylinder,0,14,0,heat-equation,"1,419",2023,"I try to solve the below problem:
+A long, hollow cylinder, a≤r≤b, is initially at a temperature of T=F(r). For times t>0 the boundaries at r=a and r=b are kept insulated...."
+Determine the dimensions of the subspaces.,0,35,0,linear-algebra,"2,186",2023,"Let W1 denote the set of all polynomials f(x) in P(F) such that in the representation f(x)=anxn+an−1xn−1+···+a1x+a0, we have ai=0 whenever i is even. Likewise let $..."
+"(F,G) is an adjoint pair iff there are morphisms of functors ϵ:idC→G∘F,η:F∘G→idD with commutative diagrams",0,33,0,category-theory,11,2023,"We are discussing category theory now. We got the following exercise in class. F:C→D, G:D→C. Show that (F,G) is an adjoint pair if and only if ..."
+How to study a series with upper bound in the summand?,1,49,1,calculus,111,2023,"I am trying to show that, given (n,N)∈N2, N≥2, n<N, xn∈C with |xn|≤1, CV denoting convergence:
+\begin{equation}\label{appeq:toprove}
+	S_N =..."
+Lists of even numbers and an odd number,0,29,0,combinatorics,545,2023,"I am asked to find the number of lists with 100 elements subject to two conditions:
+
+Numbers chose must be from the set {1⋯48}
+There must be only one odd number
+Each even number must ..."
+Simplify √2x+2√x2−y2 [closed],1,92,-3,algebra-precalculus,27,2023,"Is there any way I can simplify this expression? I have tried to do it with the a2−b2=(a−b)(a+b)  rule, but it does not make any sense to me.
+√2x+2√x2−y2
+Thanks."
+Prove magnitude of zeros of polynomial ≤√5+12,1,144,3,algebra-precalculus,771,2023,"Let (a0,a2…,an−1)∈[0,1]n, and k∈C be a zero of f(x)=xn+an−1xn−1+⋯+a0. Prove that |k|≤√5+12.
+
+Firstly, √5+12 seems to come from ..."
+A problem about limitation,0,52,0,calculus,41,2023,"I tried to use the Squeeze Theorem, but it failed, and I tried to deal with it using the definition of the definite integral, which also failed.
+$$\lim_{n\to\infty}\left(\sum_{k=1}^n\frac{2k}{n^2+n+k} ..."
+Kock-Lawvere axiom. Am I right that after finding set of ε we must check elements of this set? [closed],0,152,-1,logic,425,2023,"I read about Kock-Lawvere axiom and I have question about it.
+
+Definition 4.3. An infinitesimal on R is any nilsquare element of R, i.e. x2=0. We dnote the collection of infinitesimals on R ..."
+Proving that a matrix of Gaussian distances is positive definite,1,22,0,matrices,485,2023,"I have a square matrix with elements Bij=e−c(i−j)2 for some c>0, i.e. a sort of matrix of Gaussian distances. How would I go about proving that this matrix is positive definite?
+I ..."
+Roll a die 10 times. What is the probability that there is at least one number (1 through 6) that appears exactly 3 times in the sequence?,1,113,0,probability,1,2023,"My attempt is 6∗(105)∗57610
+I haven't figure out what to do next. Should I use inclusion-exclusion method?"
+Question in regards to a lower bound in the proof of a linear continuum is connected under ordered topology,1,34,1,general-topology,999,2023,"In the proof below, the author sets out to prove that if X is a linear continuum, then X is connected under the ordered topology:
+
+Suppose that X is disconnected, then there exists two non-empty ..."
+Surface Area of an Ellipsoid AX2+BY2+CZ2+DXY+EXZ+FYZ−R20=0,2,98,3,geometry,292,2023,"I am attempting to determine the surface area of an ellipsoid described by the equation:
+AX2+BY2+CZ2+DXY+EXZ+FYZ−R20=0.
+When it comes to an ellipse aligned with its axes ..."
+Set system containing no chain with k+1 sets [duplicate],0,48,1,real-analysis,111,2023,"Let F⊂P[n] be a set system such that each chain in it has at most k sets. Prove that n∑i=0|Fi|(ni)≤k,..."
+Attribution of correlations given correlation between a variable and the sum of other two variables,1,47,0,statistics,21,2023,"Given,
+ρ=Corr[X1,(X2+X3)]
+and
+ˆρ=Corr[X2,X3]
+where Corr[] stands for Pearson correlation, how can Corr[X1, X2] and ..."
+Examples of functions which are bell-shaped?,0,44,1,functions,19,2023,"I have been grouping functions based on how their graph looks like. I started with bell-shaped curves and have come up with the following functions:
+
+cos, sin
+sech (from -1 to 1)
+Infinitely Smooth ..."
+Are these R-homomorphisms necessary in this argument?,0,29,0,modules,308,2023,"I just started to learn some multilinear algebra, that I lacked in my undergraduate program. I decided to do it with the book of Douglas Northcott.
+He defines what is going to be the solution for the ..."
+Integral convergence of ∫∞0e−x+1dx converges or diverges? [closed],0,32,-1,calculus,467,2023,"How to determine if ∫∞0e−x+1dx
+converges or diverges?"
+Taylor expansion of multivariable composite function,1,23,0,analysis,311,2023,"I cannot find the formula, can someone help me with this? I need Taylor expansion of function f(g1(x1,x2,x3),g2(x1,x2,x3)) around (a1,a2,a3)."
+Practical interpretation of bounding the norm of a function in RKHS [closed],0,10,-1,functional-analysis,1,2023,"I'm currently working with reproducing kernel Hilbert spaces (RKHS), and I've come across the concept of bounding the norm of a function in RKHS. While I understand the theoretical definition, I'm ..."
+How does this definition give mutual independence of events?,1,52,2,probability,"1,843",2023,"I am not understanding how this definition gives mutual independence:
+
+I am not seeing this because It seems the LHS of the equation will always be the null set, as Bi assumes both Ai and $\bar{..."
+Probability that uniform distributed variable lies within interval,1,49,0,probability,335,2023,"If a,b is uniform in [0,1] what is the probability that a/b is in [1,3]
+My friend was asked this question in an interview recently but I'm unsure of how to approach it.
+I understand that a,b uniform ..."
+Markov Chain hitting 2 states one after another - expected time?,2,74,0,probability-theory,153,2023,"Suppose we are given an ergodic Markov Chain (Xn)n∈N0 (finite state space E). By ""ergodic"" i mean that one can reach any state from any other state in finitely steps with ..."
+come up with a generalised formula for area of n sides with L meters of fence. consider a large number of n and compare that to a circle,0,14,0,calculus,1,2023,questions before asked to compare area of a rectangle and isoceles triangle using 60m of fencing and then asked us to come up with a generalised form for L meters of fence showing that this is a ...
+Limit theorem in Gut's Probability: A graduate course,1,28,0,probability,121,2023,"I'm trying to understand the proof of Theorem 3.1 in Probability: A graduate course.
+
+The notation with the diagonal arrows was previously introduced to mean that a sequence of sets is non-decreasing/..."
+What would be the judicious choice of a random variable in a coin toss experiment,1,42,0,random-variables,"2,149",2023,"Consider the following random variable:
+
+X=1 if the flip of the coin is a head
+X=0 if the flip of the coin is a tail
+
+How the above definition of random variable is different from
+
+X=1 if ..."
+Relationship between surface integral and fubini's theorem,0,26,1,integration,65,2023,"I am studying about surface integral and recently have studied about fubini's theorem.
+And I think there exists any relationship between 'surface integral' and 'fubini's theorem'.
+As a result, I came ..."
+"How to prove f(n)=O(g(n)),g(n)=O(f(n)) or both?",0,44,1,asymptotics,11,2023,"f(n) = n log n, g(n) = n sqrt(n)/2
+
+f(n) = (n^2-n)/2 , g(n) = 6n
+using big-O definition finding c, n0?
+i have tried with big-O notation:
+Let
+f
+f, the function to be estimated, be a real or complex ..."
+Why can the dot product of two vectors be written in the form axbx+ayby+azbz [closed],1,48,-2,algebra-precalculus,7,2023,My intuition says that (ax+ay+az)⋅(bx+by+bz) would expand out to be a quadratic... Why isn't this the case?
+"degree, genus, and birational map",1,46,0,algebraic-geometry,854,2023,"I'm confused on the following:
+Suppose we have a polynomial f(T), e.g. Td, with degree d>2, then I consider the curve defined by y−f(x). Then there seems an obvious birational map given by
+..."
+How do I find the infinite sum of arctan(2−n)?,2,130,1,computer-science,21,2023,"I am looking at the CORDIC Algorithm and I want to show that iterative rotations by the nth angle given by arctan 2−n is greater than π2.
+∞∑n=0arctan2−n"
+How can I simplify a conjunction of disjunctions (CNF) statement if I can introduce extra variables?,0,10,0,satisfiability,1,2023,"I have a CNF.
+Such as $$(x_{1} \lor x_2 \lor \lnot x_3 \lor \lnot x_4) \land (x_1 \lor \lnot x_2 \lor x_3 \lor \lnot x_4) \land (x_1 \lor \lnot x_2 \lor \lnot x_3 \lor x_4) \land (x_1 \lor \lnot x_2 \..."
+"(α,β,ϵ)- DP-PAC learner with sample size polynomial, what is meant?",0,28,0,polynomials,558,2023,"In the case of a (α,β,ϵ)- DP-PAC learner (with finite hypothesis class Hd), what is meant by sample size polynomial in different expressions for d, α, β, ϵ?..."
+Why isn't the dot product of two identical vectors equal to the magnitude of that vector?,1,50,0,vector-spaces,3,2023,"If I understand correctly, the dot product of two vectors give you a scalar quantity. This value tells you how much, or what magnitude, of the vectors are in each others direction. I also understand ..."
+"Embedding of D(Ω) in Wk,p0(Ω)",1,56,2,functional-analysis,466,2023,"Wk,p0(Ω) is defined as the  closure of the set of all C∞c(Ω) under the topology generated by the norm Wk,p(Ω).
+So clearly the identity map from $\mathcal{D}(\Omega)..."
+Stochastic Modeling: Need Guidance on Measures & SDEs,1,37,0,measure-theory,"4,770",2023,"I'm embarking on a journey to master measure theory and integration, with the ultimate goal of comprehending stochastic differential equations, which are key to understanding various formalizations in ..."
+Nullspace and Ranges Proof,0,18,0,linear-algebra,101,2023,"If we let A∈Rn×n, I want to prove that N(A)=N(ATA).
+MY ATTEMPT
+I already prove that N(A)⊆N(ATA). I just need clarification for the other direction. We can ..."
+The homology groups of f−1(0) and f−1(1) [closed],0,49,-1,algebraic-topology,101,2023,"Let S2 be the 2-sphere. Define a map f:S2×S2→R by
+f((x1,x2,x3),(y1,y2,y3))=x3+y3.
+How to compute the homology groups of f−1(0) and f−1(1)?"
+What is the relation between the stationary distribution and stability of probability flow ODE?,0,28,1,probability-distributions,129,2023,"According to Score-Based Generative Modeling through Stochastic Differential Equations, we have the following.
+Definition (Forward SDE)
+$$
+\mathrm{d}\mathbf{x} = \mathbf{F}(\mathbf{x}, t)\mathrm{d}t + ..."
+Solve an equation in Z,0,41,-2,number-theory,77,2023,"I want to solve an equation in Z, the equation is as follows
+(a1x1+a2x2+a3x3+a4x4)2+(b2x2+b3x3+b4x4)2+p((c3x3+c4x4)2+d24x24)=M
+$a_1,a_2,a_3,a_4,b_2,b_3,b_4,..."
+"Proof that (∇f(x)−∇f(y))T(x−y)≥0 ∀ x,y⇒f is convex",0,39,0,convex-optimization,1,2023,"Proof that (∇f(x)−∇f(y))T(x−y)≥0 ∀ x,y⇒f is convex.
+I've differentiated both 2 sides and got this:
+$\nabla^2 f(x)^T(x-y) + \nabla f(x) - \nabla f(y) \succeq ..."
+How are two random variables with same mean and different variances are stochastically ordered?,0,29,0,probability-theory,135,2023,Suppose that we have a random variable X that is normaly distributed with mean μx and variance σ2x<∞. Any other normal random variable Y with the same mean as the random ...
+Relation between row spaces of matrices and matroids over them.,0,83,0,linear-algebra,"3,461",2023,"For matrices A1 and A2 over a field F, each having n columns,
+1- I do not know why If R(A1)=R(A2), then M[A1]=M[A2]. Could someone clarify this to ..."
+How to simplify an equation based on relationship of the 2 unknown values?,0,21,0,linear-algebra,1,2023,"I know that k =(d*b)+a.
+And i have equations:
+k = s^-1*(z+r*d) mod n
+d = r^-1*(s*k-z) mod n
+
+I want to apply the relationship ..."
+Show that integral operator with logarithmic kernel is smooth,0,18,0,real-analysis,588,2023,"currently I am trying to solve the following question: Let f∈C∞0(C) and consider the following two integral operators. First we have the Cauchy integral operator given by
+$$
+C[f]..."
+Show that integral operator with logarithmic kernel is smooth [duplicate],0,10,0,real-analysis,588,2023,"currently I am trying to solve the following question: Let f∈C∞0(C) and consider the following two integral operators. First we have the Cauchy integral operator given by
+$$
+C[f]..."
+A question on something relating to analytic continuation of a Γ()-based function,0,25,0,calculus,129,2023,"f(s)=Γ(s)2s−1, (−1<Re(s)<0:fundamental strip)
+There exsists γ that 0<Re(s)≤γ, such that f(s)=O(|s|−p),(p>1)
+That is, How to ..."
+Complex equation |z|6=ˉz3+15z3−64,2,134,1,algebra-precalculus,243,2023,"I need to solve the following complex equation:
+|z|6=ˉz3+15z3−64.
+If I set z=|z|eiϕ, I get
+|z|6=|z|3e−i3ϕ+15|z|3ei3ϕ−64
+For ϕ=0 the solution is z=2. What is ..."
+"If f is a submodular function, does g(k)=max|A|=kf(A) have diminishing returns?",0,13,0,combinatorics,925,2023,"A submodular function has diminishing returns, so I expect the following: if f is submodular, then g(k)=maxA⊆Ω,|A|=kf(A) would also have diminishing returns, that is $g(k+1)..."
+Why is sum of 2 rolls is not calculated another way?,4,80,-1,probability,31,2023,"Question: what is the probability of getting a sum of 5 using a pair of dice?
+
+I am aware of the solution being, choosing one face for each dice - that gives total 36 possibilities in the sample ..."
+Proofs with ln(x) and ex,0,72,0,algebra-precalculus,1,2023,"I see natural logarithms as being defined as:
+ln(x)=limh→0xh−1h
+And e being defined as ln(e)=1. How would you prove, using these definitions, that:
+
+The graph of y=ex..."
+Proof check of non existence of solutions in the Natural Numbers to a2+b2a2−b2 + little doubt in the last line,1,31,2,solution-verification,25,2023,"I am currently practicing my proof writing skills and found a problem that asked to prove that there are not solutions in the natural numbers to :a2+b2a2−b2
+(a and b are ..."
+Prove that the sequence(xn)=12(xn+axn) where x1=1 and a>1 is convergent [duplicate],1,43,0,real-analysis,105,2023,"So I have a sequence (xn)=12(xn+axn) where a>1 and x1=1.
+I have to prove it is convergent.I tried with induction to prove that
+a≤x2n because from that I can ..."
+"C is a convex set in Rn. For any x∈∂C, can we always construct {xn}⊂Rn∖cl(C) s.t. xn→x?",0,30,1,general-topology,21,2023,"I found this statement in a proof of separating hyperplane theorem:
+C is a convex set in Rn. For any x∈∂C, there exists {xn}⊂Rn∖cl(C) such that $x_n \..."
+While solving a physics question I came upon a sort of differential equation that I could not quite solve,1,87,0,ordinary-differential-equations,90,2023,"Please ignore my writing. Here is the question:
+""A charged particle having charge q and mass m is projected into a region of electric field E with its intial velocity v perpendicular to $..."
+∫∞0uu2+σ2J4m(u)du=K4m(σ)+?,2,153,7,calculus,613,2023,"As I delved into the intricacies of a fluid mechanics problem that revolved around Green's functions in porous media, I stumbled upon the following intriguing infinite integral:
+$$
+\phi_m (\sigma) = \..."
+Differentiable equation to find unique values of an array,0,13,0,calculus,1,2023,"I am writing a custom loss function for a deep learning algorithm. The loss function should be such that it penalizes unique values in an array (image, specifically the AB parts of LAB image). The in-..."
+Precise statement of Poincaré duality,1,89,4,differential-geometry,"2,362",2023,"Let (M,g) be a (not-necessarily compact) oriented, connected Riemannian manifold. Lets consider the pairing
+$$\Omega^{k}(M)\times\Omega^{d-k}_{c}(M)\to\mathbb{R}, (\alpha,\beta)\mapsto\int_{M}\alpha\..."
+Integral Representation of ζ2(3) based on ∫10lnms⋅lnn(1+s)1+sds,1,208,8,calculus,"2,409",2023,"Using Integer Relation Algorithms, I was able to arrive at the following :
+$$12\zeta^2(3)=-40\int_{0}^{1}\frac{\ln s\ln^{4}(1+s)}{1+s}ds+40\int_{0}^{1}\frac{\ln^{2}s\ln^{3}(1+s)}{1+s}ds-44\int_{0}^{1}\..."
+Optimal control with state jumps and state equality constraint,0,28,1,optimization,11,2023,"The maximization problem
+I want to solve the problem
+maxx(⋅),y(⋅),u(⋅)∫Tt0f(x(t),t)g(t)dt
+subject to
+\begin{align}
+ &x(t)t -  x(t)..."
+Card Game Combination,0,25,1,probability,19,2023,"I am building a table top card game. The goal of the game is to build a sentence from 3 cards.
+There are 3 cards types you need to find and place them in order. For an example:
+
+Beginning of sentence
+..."
+Infinite group without a subgroup isomorphic to Z?,1,68,0,group-theory,645,2023,"I am looking for examples of infinite groups in which no subgroup is isomorphic to Z. Some of the examples I can think of are: $$\prod_{i=1}^\infty \mathbb{Z}_2, \quad \bigcup_{i=1}^\infty ..."
+A lemma used in Lindemann-Weierstrauss Theorem,0,27,0,elementary-number-theory,35,2023,"Below is a question given in exercises of book of Galois theory by Patrick Morandi which is used in the proof Lindemann-Weierstrauss theorem. Let
+$$
+\sum_{i=1}^r a_i x^{\alpha_i} \text { and } \sum_{i=..."
+Probability analysis in passengers taking trains in a FCFS way under capacity constraint,0,25,0,probability,43,2023,"Suppose there are two trains:
+
+Train 1 and Train 2 have different departure times (t1 and t2) and capacities (c1 and c2).
+There are two types of passengers, Type 1 with d1 passengers ..."
+Existence of matrix units of infinite cardinality in a properly infinite von Neumann algebra,1,42,0,operator-algebras,"2,850",2023,Suppose M is a properly infinite von Neumann algebra. Can we find a n×n self-adjoint system of matrix unit whose cardinality is infinite? That is the existence of {Ea}a∈I...
+Methods of Analysis: Sequence and Convergence,1,41,-1,education,11,2023,"A,B⊂R are non-empty bounded sets, with α=sup(A),B=sup(B).
+Z∈R Prove that Z+A={Z+x:x∈A} is bounded and sup(Z+A)=Z+α.
+So far in my proof I have: $∀ x ∈ A. x ≤ α, Z + x ..."
+Probability a group is unrepresented,2,36,1,probability,89,2023,"11 students from each of Engineering, Science, Humanities, and Social Science were nominated to represent their faculties. 7 of these 44 students will be randomly chosen to be on the student council. ..."
+Number of solutions to f2023(x)=x23,0,231,0,calculus,21,2023,"I have to find how many solutions there are for the following problem for my Introduction to Calculus course:
+$$
+\begin{split}
+f_1(x) &= |x^2 - 1| \\
+& \;\vdots\\
+f_{2023}(x) &= \frac{x}{..."
+Matrix equality conjecture,1,48,2,linear-algebra,41,2023,"T1 and T1 are any real, square, lower-triangular, toeplitz matrices of dimension p>1.
+Let [T1T2]B denote the $p\..."
+"Why Do we add only numerators. Is this concept related to how we add ""integers""?",0,56,-1,discrete-mathematics,1,2023,"Why does adding 3/6 and 1/6 result in 4/6 rather than 4/12? Is it because we add the numerators when adding fractions, similar to how we add integers without altering their denominator ""1""? ..."
+If subset of domain of isomorphism is subspace iff image of subset is subspace of image of isomorphism [duplicate],0,19,-1,linear-algebra,331,2023,"I am having hard time to come with counterexample of non-isomorphic linear map f, where this statement does not hold:
+Let f:V→W be an isomorphism.
+Then M⊆V is linear ..."
+Does |→xn+m|≤|→xn+→xm| imply the convergence of {→xn/n}?,1,132,3,real-analysis,No detail available,2023,"Let d≥1 be a positive integer. If {→xn}∞n=1 is a sequence of d-dimensional vectors satisfying $$|\vec x_{n+m}|\leq |\vec x_n+\vec x_m|\qquad \text{for all }n,m\in\mathbb N_{\..."
+"If 4x+4−x=5, what is 8x+8−x?",3,183,5,algebra-precalculus,No detail available,2023,"I found this competition math problem that I haven't been able to solve.
+
+If 4x+4−x=5, find 8x+8−x.
+
+Setting a=4x, we see the problem is equivalent to saying:
+
+If $a + a^{-1} = ..."
+does the series ∑|(−1)n√n(1+(−1)n√n)| converge?,1,84,0,sequences-and-series,397,2023,"Does the series Sn=∑|(−1)n√n(1+(−1)n√n)| converge?
+I could arrive at $S_n = \sum \bigg{|}  \left(\frac{1}{\sqrt{n}} + \frac{(-1)^..."
+Example about Picard-Lindelöf theorem,0,31,1,real-analysis,61,2023,"Let I⊂R be an open interval, x0∈I and Ω⊂I×R such that (x0,y0)∈Ω.
+Picard-Lindelöf theorem states that the IVP
+\begin{equation}
+\frac{dy}{..."
+Limit question involving prime numbers [closed],1,45,2,number-theory,49,2023,"Can anyone help me show that:
+$$\lim_{n\to\infty} \frac{\frac{n}{(\ln(n))^2} + \frac{2\sqrt{n}}{\ln(n)} - \sum_{p \leq \sqrt{\frac{n}{2}}}\frac{\frac{n}{p^2}}{(\ln(\frac{n}{p^2}))^2}}{\sqrt{n}\ln(n)} =..."
+"Iff k divides n then, xk−ak divides xn−an [duplicate]",0,37,-1,elementary-number-theory,1,2023,"The question is regarding divisibility. I am unable to prove this identity.
+Previously I have seen this version of this question:
+xk−1 divides xn−1 IFF k divides n.
+Please some one prove ..."
+"Question on the ""range"" of f(x)=2x",1,106,4,algebra-precalculus,964,2023,"From a high school (Algebra II) quiz:
+If the domain of f(x)=2x is the positive rational numbers, what is the range?
+Since ""range"" can be ambiguous at this level, let's assume it means the ..."
+Differential operators of tensor fields. Hamilton operator,0,38,0,differential-geometry,175,2023,"The very first thing my textbook says is that the Hamilton operator is defined as:
+→∇=→ai∇i
+Where ∇i is the covariant derivative and "" →ai is the ..."
+Would a straight line between two points on a sinusoidal map be the same as the geodesic between those points on a sphere's surface?,0,30,2,differential-geometry,31,2023,Recently I've been trying to find the relationship between a Mercator map ( whose coordinates I'll express with x and y ) and the surface of a sphere such as a globe ( whose coordinates I'll express ...
+Definition of local homeomorphism,2,118,4,general-topology,41,2023,"According to Wikipedia :
+
+A function f:X→Y between two topological spaces is called a local homeomorphism if every point x∈X has an open neighborhood U whose image f(U) is open in Y and ..."
+Get the k-th permutation of n distinct items ignoring direction.,1,48,2,combinatorics,23,2023,"I have a set of n distinct items, and I want to retrieve the k-th lexically-sorted permutation, yet ignoring its direction (e.g. [1,2,3,4] = [4,3,2,1]). These elements would be considered ..."
+How to evaluate: ∫10xex−exx2−2xex+e2xdx,1,100,4,calculus,"1,945",2023,"So my younger friend who loves math (whom I have mentioned before), came up with an integral for me to evaluate, this time being∫10xex−exx2−2xex+e2xdxwhich I thought that I ..."
+Infinite Ramification Places of Finite Extension,1,54,1,abstract-algebra,77,2023,"Let F/K be an algebraic function field, with constant field K=KF, and L/F be an finite extension.
+Is it possible that infinitely many places of L ramifiy?
+Somehow I feel that it is not ..."
+Second order approximation of a differentiable functional,1,33,2,calculus,"1,306",2023,"I would like to solve the following problem
+
+If J is a functional twice differentiable from a normed space to R, prove that
+
+$$
+J(u+w) = J(u) + J’(u)w + \frac{1}{2}J’’(u)(w,w) + o(\lVert ..."
+Partitioning a probability on the set of a determinstic variable,1,35,0,probability,263,2023,"Are the following probability expressions the same? If so why? In my opinion it is the same but I don't know how one would prove it formally.
+PS[f(S,z)≥c,∀z∈A]
+and
+$$\..."
+What is the probability distribution of elements in a vector obtained by the product of the given matrix and vector?,1,47,1,matrices,13,2023,"Given a vector with elements sampled from a Gaussian distribution, and also given a matrix with elements sampled from the other independent Gaussian distribution.
+What is the probability distribution ..."
+How do we use generating functions to find letter permutations?,1,52,1,combinatorics,131,2023,"I have been going through this example to understand how to use generating functions.
+Here is the question:
+
+How many 6-letter permutations can be formed using only the letters of the word, ..."
+Calculating combinations without repetitions [closed],1,43,0,combinatorics,19,2023,"So, regarding this assignment, I have to create a team, with three workers and one boss. I have ten people to choose from. That would mean, that it is a question of combinations without repetitions. I ..."
+Interchange of limits and infinite sums,2,89,1,real-analysis,43,2023,"Let (fn) be a sequence of functions [−1,1]→R and suppose that ∑∞n=0fn(h) converges pointwise in [−1,1] to a function f(h). Furthermore, suppose that $\lim_{n\to\..."
+"Determine the integers x and y, knowing that it verifies the relation: x3−x2y+xy2−y3=2023",2,119,4,integers,370,2023,"Determine the integers x and y, knowing that it verifies the relation:
+x3−x2y+xy2−y3=2023
+My idea
+We can write the given relation as
+(x2+y2)(x−y)=2023=7⋅172
+I wonder if we can ..."
+Winding number of composition equaling zero implies existence of complex logarithm,0,31,0,complex-analysis,609,2023,"I have an open and connected set V that is also simply connected. Let a1,…,an∈V and set U=V∖{a1,…,an}. Let BRi(ai) be disjoint balls around each ai ..."
+"Show that if M is an R-module that contains a free submodule N of rank n such that M/N is torsion, then M is of rank n.",1,46,0,modules,694,2023,"Assume that R is and integral domain.
+
+If M is an R-module that contains a submodule N free of rank n, such that M/N is a torsion R-module, then M is of rank n.
+
+My reasoning:
+That $..."
+Wallis Reduction Formula using Factorials and Exponents,0,20,-2,definite-integrals,1,2023,"https://en.wikipedia.org/wiki/Wallis%27_integrals?wprov=sfla1
+In the above page I found that I could not work out the recurrence formula in terms of exponents and factorial..
+It would be highly ..."
+Evaluating the derivative of y=1/x,2,60,0,calculus,43,2023,"If you look closely in step 4,delta x is multiplied with 1/delta x in the first numerator and last denominator.
+The rules of fractions are :
+A/B/C=AC/B. Isn't this a discrepancy?
+y=1x
+$$
+\..."
+generating sequences of functions,0,16,0,real-analysis,59,2023,"I have read the following theorem from Apostol's analysis.
+
+Let α be of bounded variation on [a,b]. Assume that each term of the sequence {fn} is real valued function such that $f_n \in ..."
+Fixed Point in Uniformly Convex Banach Space and Bounded Subset,0,46,0,functional-analysis,9,2023,"The problem is
+""Let K be a bounded, closed, convex subset of a uniformly convex
+Banach space X and F:K→X be a nonexpansive map with inf||x−F(x)||:x∈K=0
+Show that ..."
+Is pullback along a simplex really a fibre?,1,62,2,category-theory,23,2023,"I know that the question could be posed for any presheaf category, but simplicial sets are the only one having a name for natural transformations from representables, so I'll stick with that.
+So, go ..."
+Combinatorial Proof for the Number of Squares in a Grid,2,49,1,combinatorics,47,2023,"I am exploring combinatorial methods to solve a problem related to counting the number of squares in a grid. Given an 'a x b' grid of evenly spaced points, I want to understand how to determine the ..."
+ODE: How can I solve it? [closed],0,72,1,ordinary-differential-equations,23,2023,"I want to solve this equation, but I have never solved  ODE like this. Can you help me?
+a2z2(y(z)′2+y(z)y(z)″
+where a,b and c are ..."
+"For u \in \mathrm{H}^s\left(\mathbb{R}^n\right) with s>n / 2, show that \lim _{x \rightarrow \infty} u(x)=0. [duplicate]",0,20,1,functional-analysis,11,2023,"I was thinking about using Sobolev imbedding theorem. Let s>m / 2. Then
+
+H^s\left(\mathbb{R}^m\right) \hookrightarrow C_b\left(\mathbb{R}^m\right) .
+
+That is
+$$
+H^s\left(\mathbb{R}^m\right) \..."
+eigenvalue of a 'norm' matrix,1,41,1,linear-algebra,111,2023,"Suppose \lambda_1,\cdots,\lambda_n distinct real numbers, and matrix A=(a_{ij})_{n\times n} is defined as
+
+a_{ij}=|\lambda_i-\lambda_j|.
+
+I guess A has a positive eigenvalue and n-1 ..."
+"Given a multivariate normal density to find E[X], E[Y], E[Z], and σ[YZ]. [closed]",0,87,0,expected-value,1,2023,"Given a multivariate normal density1, we want to find E[X], E[Y], E[Z], and σ[YZ].
+I don't know how to find these. Does anyone know how to do this?"
+Half Derivatives in Maxima,0,26,0,maxima-software,13,2023,"Is it possible to take the half derivative of a function in maxima? I tried the following:
+..."
+is there any unit upper triangular matrix in GL_n(F_p) such that the following holds,0,43,1,linear-algebra,115,2023,"Let U_1 be the group of n\times n upper triangular matrices with 1's down the main diagonal (called unit upper triangular matrices) over \mathbb{F}_p , which is also a Sylow p-subgroup of $G=\..."
+Why does taking the tangent line improve the approximation in Newton's method?,4,91,0,real-analysis,13,2023,"I have gained a comprehension of the operational process through the discussion located at Why does Newton's method work?. Nevertheless, there is one aspect that remains unclear to me.
+To initiate,..."
+How to prove this inequality about trigonometric polynomial？,0,65,0,inequality,1,2023,"Problem statement:
+Define T_n(x)=\frac{a_0}{2}+\sum_{k=1}^{n}{(a_k\cos kx+b_k\sin kx)} be a real valued trigonometric polynomial on [-\pi,\pi].Prove that
+$$\mathop{max}\limits_{-\pi\le x \le \pi}{|..."
+Showing that a set is periodic,0,42,0,set-theory,271,2023,"A set of the real line is called periodic if it can be written in the form
+
+S= L \mathbb Z + \{ a_1,\dots, a_n \} = \{ Ln+a_j : n \in \mathbb Z , j = 1, \dots, n \}
+
+where L \neq 0 is a nonzero ..."
+a problem on function and set,0,34,0,abstract-algebra,124,2023,"Let F denote the set of all functions f:\Bbb{R \to R} and let Q\subset F be the subset of all continuos f  then prove that \Bbb{|R|=}|C|<|F|
+Just give me a hint don't give a full solution"
+"Are antipodes of free, finite rank Hopf algebras over general rings invertible?",1,12,0,hopf-algebras,"1,448",2023,"It is a well-known result by Larson and Sweedler that, for finite-dimensional Hopf algebras over a field, the antipode is always a linear isomorphism.
+My question is whether this property still holds ..."
+Graph coloring connection-contraction,1,46,1,graph-theory,351,2023,"I know that given a graph G we can find its chromatic polynomial using the deletion-contraction algorithm as P_G(k) = P_{G \setminus e}(k) - P_{G/e}(k).
+Apparently there is an equivalent approach ..."
+"What does ""take over"" mean in the ""the inf being taken over all countable coverings of E by open elementary sets""?",2,305,2,real-analysis,133,2023,"I'm studying real analysis with Rudin Principles of Mathematical Analysis textbook.
+I'm confused about the expression ""the inf/sup being taken over ~~""  in several definitions.
+In principles ..."
+What is the algorithmic complexity of knot equivalence?,0,28,2,manifolds,"1,922",2023,"Question. Given two (tame) knots by their link diagrams, what is the algorithmic complexity (e.g. time in the size needed to store the link diagrams) to decide if the represented links are isotopic?
+..."
+How to determine flatness,1,99,-1,commutative-algebra,9,2023,"Let k be a field and define R=k[x,y]/(xy) and an R-Algebra A=k[x]\times k[y]=R/(y)\times R/(x). I have to answer two questions
+
+Is k[x]=R/(y) flat over A
+Is A flat over R
+
+I don't ..."
+How to work with quasi-projective varieties?,0,82,2,algebraic-geometry,23,2023,"I am taking a course in algebraic geometry (scheme theory), and we began by introducing algebraic varieties and projective varieties as zero sets of equations of polynomials (homogeneous in the ..."
+Convergence of Lie Series,0,41,1,taylor-expansion,11,2023,"In the answer to this question the Lie Series result
+
+  \boxed{ \; e^{t \phi(x) \frac{d}{dx}} f(x) = f\left(e^{t \phi(x) \frac{d}{dx}} x\right) \; }
+
+was mentioned. Now for f(x) analytic and ..."
+Calculating conditional expected value,0,15,-1,conditional-expectation,61,2023,"For example if I have some random variable \epsilon_t with E\epsilon_t=0 and Var\epsilon_t<\infty. I want to show E[\prod_{t=1}^\infty\epsilon_t|F_{t-1}]=0
+where F_{t-1} is generated by ..."
+An algebraic stack as a non-linear analog of a complex of vector spaces,1,105,4,algebraic-geometry,"1,383",2023,"In their paper Derived Quot Schemes Kapranov and Ciocane-Fontanine write in the introduction:
+
+Indeed, an algebraic stack is a nonlinear analog of a complex of vector spaces situated in degrees $[-1,0]..."
+"Let X,Y and Z be subspaces of a vector space W with dimension n. Show that if dim(X)+dim(Y)+dim(Z)>2n then X \cap Y \cap Z \neq \{0\}.",2,81,0,linear-algebra,11,2023,"Let W be a vector space with \dim W = n < \infty and let X,Y and Z be a subspaces of W. How can i prove that if
+$$\dim(X) + \dim(Y) + \dim(Z) > 2n \ \implies X \cap Y \cap Z \ne \{0\}. ..."
+"Find the number of all ordered pairs (a,b,c,d,e,f) of a+b+c+d+e+f=11,a+b\le c+d\le e+f",1,93,1,combinatorics,"5,398",2023,"Find the number of all ordered pairs (a,b,c,d,e,f) of nonnegative integers a, b, c, d, e, and f that satisfy the following equation.
+a+b+c+d+e+f=11
+a+b\le c+d\le e+f
+Using ..."
+T : V \longrightarrow W injective \Leftrightarrow  dim V \leq dim W (infinite dimensional vector spaces),1,42,0,linear-algebra,385,2023,"I'm studying to get into a Master's degree in Pure Mathematics in Brazil and I came across this question:
+Let V and W vector spaces of arbitrary dimensions (finite or infinite). Show that exists $..."
+Locus of circle using complex numbers,2,179,2,geometry,71,2023,"I was going through Locus of circle using complex numbers and got stuck on one particular manipulation.
+We know that |z-z_1|=r represents a circle whose centre is z_1 and radius r. Now in the book ..."
+Learning Rotation SO(3) and translations on signed distance functions,0,25,0,rotations,135,2023,"Background
+Signed distance function (SDF) is a function f(x):R3↦Rf(x):R3↦R, which describe the signed distance of x∈R3x∈R3 to the 3D surfaces SS. I managed to ..."
+Fundmental groups of matrix groups and covering relation between them [closed],0,57,2,algebraic-topology,163,2023,"I am self studying algebraic topology, the fundamental groups and covering spaces and homologous groups.
+I have read the topological properties of classical matrix groups like connectedness, path ..."
+Similar short exact sequences where the first abelian group is different,1,61,1,group-theory,25,2023,"I am trying to get a better understanding of short exact sequences of abelian groups. I know that if
+0→A→B→C→00→A→B→C→0
+and
+$0 \rightarrow A' \rightarrow B' \..."
+"Determining the Functional Completeness of the Set {⇔, ∧, 0}",1,30,1,discrete-mathematics,47,2023,"I am seeking assistance in determining whether the set {⇔, ∧, 0} is functionally complete in propositional logic. To do so, I have attempted to represent logical operators using this set {!, ∧, ∨}. ..."
+Understanding this step in finding the transition matrix,1,38,0,linear-algebra,771,2023,"There's such a problem about finding the transition matrix.
+
+Let A=⎡⎣⎢211612−15−5−6⎤⎦⎥A=[26−1511−512−6], find non-singular matrix PP such that $\..."
+Intuitive explanation of perspective vs. projection in geometry,1,76,0,math-history,545,2023,I was wondering if someone could please explain the intuition of the distinction between perspective and projection in geometry. Chapter 8 of John Stillwell's Mathematics and its History begins by ...
+Understanding the construction of the split extension of group,1,88,7,abstract-algebra,349,2023,"This is the 2nd part of another question, mainly general extension. Please have a look to understand the notation. A brief description was copied from that thread,
+
+Let ϕϕ be an isomorphism of $G/..."
+Show there is no isomorphism between a subgroup of QQ and Z×ZZ×Z [duplicate],1,66,0,group-theory,15,2023,"I am currently working on a problem trying to prove that there is no subgroup  HH of QQ such that H≅Z×ZH≅Z×Z.
+I was able to show that QQ cannot be ..."
+Changing the ∀ quantifier to the ∃ quantifier,1,93,1,logic,13,2023,"I am tasked with changing the ∀∀ quantifier with the ∃∃ quantifier. However, I am not sure, whether I understood it correctly, and would like to ask for help.
+As I understood, the ..."
+(LL is an affine space of dimension one) ⇔⇔ (LL is a line),1,25,1,real-analysis,175,2023,"Definition (I):
+Let x,y∈Rnx,y∈Rn with x≠yx≠y.
+A line in RnRn  is defined as the subset L={t(y−x)+x|t∈R}⊂RnL={t(y−x)+x|t∈R}⊂Rn.
+Statement: (LL is an affine ..."
+Finding another encoder for a given code,0,34,0,linear-algebra,85,2023,"I am a newcomer in Coding Theory and I am trying to solve the following question:
+\begin{equation*}
+\text{Let}\ \mathscr{C} \subset \mathbb{F}_3^4 \text{ be a code}, \text{with racio } 2/4, \text{and ..."
+Questions regarding the construction of nilpotent matrices in light of certain characteristics,0,13,0,linear-algebra,13,2023,"I have some questions regarding nilpotent matrices.  I know that the trace of an n x nn x n nilpotent matrix must be zero and that the rank of that matrix must be less than nn.
+Thus, the determinant ..."
+Why does my finite difference implementation for a 1-D 4th order differential equation not work?,1,55,0,ordinary-differential-equations,115,2023,I am trying to solve a 1-D 4th order differential equation using finte difference method. I am implementing the algorithm in maple and was able to get approximate solutions for second order ...
+How to calculate the number of all squares possible in a 3/4 of a chessboard?( or some other fraction) [closed],0,15,-1,elementary-number-theory,1,2023,"I calculated it to be 124. I considered the half of the chess board once, and the 1/4 as another. But I think I might have made some error of not considering the squares that would overlap the two  ..."
+Basic question about joint and conditional probabilities,0,19,0,probability,654,2023,"Let's assume that BB is dependent on σ2σ2 and yy.
+I tried to show whether both statements are correct, but I actually don't even know where to start.
+$\begin{aligned} & P\left(\beta \mid \..."
+Probability density contour of bivariate normal distribution,0,10,0,geometric-probability,1,2023,"I have a bivariate normal distribution and I want to determine the axes of the ellipse that will contain 60% probability. According to my textbok, It follows from the spectral decomposition of the ..."
+When is the half-sum of positive roots a character?,0,34,0,representation-theory,301,2023,"I am trying to understand how the Weyl character formula works for GL_n.
+In Milne's Algebraic groups, he gives the character formula in the following setting :
+Let GG be a connected split reductive ..."
+Number of possible movements,2,67,-1,combinatorics,544,2023,"In a certain exercise of a previous exam, there was a question introduced regarding a safe-deposit box. The ""password"" or combination of movements that open the box consist on the following: ..."
+German MO combinatorics problem 1995,2,422,4,combinatorics,75,2023,"I found this old German MO problem in a book but no answer is given.
+Here is the problem : Prove that for all integers kk and nn with 1≤k≤2n1≤k≤2n :
+$$\binom{2n+1}{k-1}+\binom{2n+1}{k+1}\ge 2\cdot ..."
+Kernel of ψ:U24→U4×U6ψ:U24→U4×U6,0,37,0,abstract-algebra,181,2023,"Consider ψ:U24→U4×U6ψ:U24→U4×U6 such that ψ(x)=(x,x)ψ(x)=(x,x). Determine its kernel.
+
+To determine its kernel, I wrote that:
+$\psi(x)=(\bar{1}_{4},\bar{1}_{6})\iff (x,x)=(\bar{1}_{4},\bar{1}_{6})..."
+Is this a gradient field?,1,43,0,real-analysis,79,2023,"Let R=(−1/23–√/2−3–√/2−1/2)R=(−1/2−3/23/2−1/2)
+be a rotation matrix and A(x)=−x2dx1+x1dx2A(x)=−x2dx1+x1dx2 a differential form, then since $dA = 2 dx_1 \wedge ..."
+Universal ring with zero matrix product is an integral domain?,1,87,3,abstract-algebra,No detail available,2023,"Let n≥0n≥0. The universal commutative ring which has two n×nn×n-matrices whose product is zero is
+$$\textstyle R := \mathbb{Z}[(X_{ij})_{1 \leq i,j \leq n}, (Y_{ij})_{1 \leq i,j \leq n}] / \..."
+Understanding the construction of group extension,0,47,2,abstract-algebra,349,2023,"Definition: Suppose GG is a group with normal subgroup HH and that G/H≅KG/H≅K then GG is an extension of HH by KK
+Let ϕϕ be an isomorphism of G/HG/H onto KK. Let XX be a left transversal ..."
+Number of subsets with specified intersection,0,20,1,combinatorics,544,2023,"In a certain question I am asked to find how many possible subsets A,B⊂{1…n}A,B⊂{1…n} are there, given that the intersection of AA and BB, A∩BA∩B must have one element. There is no ..."
+Are there more reliable formulas for finding global minima? [closed],1,71,0,calculus,111,2023,"I was playing around with Desmos today and came up with this formula for finding global minima:
+
+It works by descending until it finds a negative value. The same method could work with multiple ..."
+Does this Euclidean geometry problem to find an angle have an elementary solution?,1,65,2,euclidean-geometry,"2,839",2023,"Here is a geometry problem posted on MathematicsArt and the Facebook feed Art of Mathematics.
+Let ABCABC be a triangle. Let PP be on ABAB so that CP⊥ABCP⊥AB. Let DD be on CPCP so that $\angle PAD=\..."
+population growth problem [closed],0,28,-2,calculus,11,2023,"Suppose that bacteria growth is modeled by the DE.
+Suppose that the number of bacteria is observed to double after 4 days, and the estimated carrying capacity is
+19 times the initial population. What ..."
+Maximizing the summation of variables provided a constraint [closed],0,35,0,combinatorics,1,2023,"What I mean is that I have n,n1,n2n,n1,n2 and n3n3 such that n=a∗n1+b∗n2+c∗n3n=a∗n1+b∗n2+c∗n3 and I want a+b+ca+b+c to be max.
+For example : n=5,n1=5,n2=2,n3=3n=5,n1=5,n2=2,n3=3. Thus, a=0,b=1a=0,b=1 and c=1c=1 ..."
+Composition of relations of an image. Prove: (ρ2∘ρ1)(A)=ρ2(ρ1(A))(ρ2∘ρ1)(A)=ρ2(ρ1(A)),1,33,0,elementary-set-theory,"1,735",2023,"ρ1⊆S1×S2ρ1⊆S1×S2 and ρ2⊆S2×S3ρ2⊆S2×S3 are some arbitrary binary relations and A⊆S1A⊆S1 some set, then (ρ2∘ρ1)(A)=ρ2(ρ1(A))(ρ2∘ρ1)(A)=ρ2(ρ1(A)). How to prove ..."
+Is exex a polynomial expression?,0,78,0,real-analysis,709,2023,"Is exex a polynomial expression?
+
+Definition of Polynomials
+A polynomial expression is an expression that can be built from constants and symbols called variables or indeterminates by means of ..."
+Triangle inside a unit square.,3,217,9,geometry,189,2023,"Consider a square of size 1 and a triangle of sides aa, bb and cc.
+Is there a way to know if the triangle can fit inside the square?
+Clearly, if a>2–√a>2 or b>2–√b>2 or c>2–√c>2..."
+how to visualise DAE as ODE on manifold,0,52,3,ordinary-differential-equations,131,2023,"In many papers and textbooks, there is always a brief comment that differential-algebraic equations (DAE) can be considered as a system of ordinary differential equation (ODE) on manifold. But then ..."
+Largest number of disjoint subsets of certain cardinality in bipartite graph such that every vertex is matched,0,96,3,algorithms,63,2023,"Given a bipartite graph G=(V,E)G=(V,E), where VV is partitioned into AA and BB, how can I design an algorithm that runs in polynomial time, such that given a positive integer n∈Nn∈N, the ..."
+Discrete joint probability of 2 random variables,0,28,1,information-theory,57,2023,"Formula for discrete joint probabilities:
+H(X,Y)=−∑i=1n∑j=1mp(xi,yj)logp(xi,yj)H(X,Y)=−∑i=1n∑j=1mp(xi,yj)log⁡p(xi,yj)
+I don't really see how the above formula works? How does it also ..."
+How different is Principle of Superposition from Principle of Linear superposition? [closed],0,711,-2,physics,1,2023,The debate is that the two are the same. But are they really the same? PRINCIPLE OF SUPERPOSITION AND PRINCIPLE OF LINEAR SUPERPOSITION.
+Proving that an Analytic Function with Real Values on a Closed Path is Constant [closed],0,78,-1,complex-analysis,51,2023,"I've been stuck on this question:""Let ΓΓ be a simple closed path, and DD be its interior. Let ff be analytic within DD and continuous on D¯¯¯¯D¯. If f(z)f(z) takes real values on $\..."
+Global sections tensoring with different ideal sheaves,0,32,0,algebraic-geometry,703,2023,"Let XX be a nonsingular smooth projective variety of dimension nn. Let AA be an ample divisor and NN be an integer sufficiently large. Let YY be a closed subvariety of codimension≥2≥2, its ..."
+Intuition while factorizing an equation,1,48,0,algebra-precalculus,91,2023,"I have the following expression to factorize: x4−15x2+36x4−15x2+36
+One way to solve it is:
+x4−15x2+36x4−15x2+36
+x4−12x2−3x2+36x4−12x2−3x2+36
+x2(x2−12)−3(x2−12)x2(x2−12)−3(x2−12)
+(x2−12)(x2−3)(x2−12)(x2−3)
+$(x-\sqrt{12})..."
+Understanding the connection between the summations of reciprocals of quadratics and hyperbolic trigonometric functions,0,12,0,definite-integrals,147,2023,"While messing around with summations of the reciprocals of quadratics from n=0n=0 to ∞∞ on wolfie.
+I made this discovery:
+$$ \sum_{n=0}^{\infty}\frac{1}{(an)^2+b^2}=\frac{1}{2ab^2}(a+b\coth{\frac{..."
+Compute the tensor product Z/726Z⊗ZZ[177]Z/726Z⊗ZZ[177],1,144,2,commutative-algebra,382,2023,"I am computing the cardinality of the tensor product Z/726Z⊗ZZ[177]Z/726Z⊗ZZ[177]. Following are my several attempts:
+
+Let R=ZR=Z, I=726ZI=726Z ..."
+"Number of triangles with sides in {1,…,n}{1,…,n}",0,48,1,permutations,83,2023,"Problem: How many triangles can be formed from a set of 66 rods of length 1,2,3,4,5,61,2,3,4,5,6 cm taken 33 at a time?
+I managed to solve this problem, by applying both the triangle inequalities and testing ..."
+Indefinite Integral of all even function =0=0?,2,458,8,integration,83,2023,"I am wondering what's wrong with the following decent-looking proof:
+\begin{align*}
+\int x^2 dx &= \int (-u)^2(-du)\quad\text{ Let } x=-u\\
+&=-\int u^2 du\\
+&=-\int x^2 dx \quad \text{..."
+The criteria when fibre product irreducible,1,55,0,algebraic-geometry,550,2023,"All varieties are over algebraically closed field of characteristic zero and irreducible.
+Let φ:X→S2φ:X→S2 be a morphism of varieties. Assume ψ:S1→S2ψ:S1→S2 is a morphism.
+
+Is it ..."
+What is the state of the art algorithm for diagonalizing real symmetric matrices?,0,35,0,linear-algebra,"1,577",2023,"There are many methods for diagonalizing matrices; probably the most widely used is the combination of household transformations and the QR algorithm.
+
+Is there any superior method for diagonalizing ..."
+Canonical bundle of cyclic covering,0,90,0,algebraic-geometry,31,2023,"Let YY be a complex manifold and 0≠f∈H0(Y,Ld)0≠f∈H0(Y,Ld), where d∈Z≥0d∈Z≥0 and LL is a holomorphic line bundle over YY. Then it gives a cyclic covering π:X→Yπ:X→Y, where $X\..."
+what we can say about diagonal of A−1A−1if A is symmetric?,0,29,0,linear-algebra,372,2023,"Suppose we have a symmetric matrix A such that its diagonal elements are positive. What can we say about the diagonal elements of its inverse? Are also they positive?
+My attempt:
+We know the inverse ..."
+"Prove that if f,g:S1→Xf,g:S1→X are homotopic maps, then the spaces formed from XX by attaching a disc using ff and using gg are homotopy equivalent [duplicate]",0,17,0,general-topology,364,2023,"Prove that if f,g:S1→Xf,g:S1→X are homotopic maps, then the spaces formed from XX by attaching a disc using ff and using gg are homotopy equivalent; in other words, X∪fD≃X∪gDX∪fD≃X∪gD.
+I ..."
+Inverse statement of the linear ODE question,1,73,2,ordinary-differential-equations,45,2023,"Based on this question:Show that: a) X−1(t)X−1(t) is bounded in [β,∞)[β,∞). b)No system solution approaches zero solution when t→∞.t→∞.
+I am working on the following problem, which ..."
+Product involving function of two dependent Gaussian random variables,2,52,1,statistics,"2,479",2023,"Suppose that I have two independent random variables g1,g2∼N(0,1)g1,g2∼N(0,1).
+From these variables I construct a vector: g=(g1,g2)g=(g1,g2).
+Also, I have a unit vector u=(u1,u2)u=(u1,u2).
+It follows that the inner ..."
+Polynomials approximate L2L2 function,1,97,1,real-analysis,111,2023,"Suppose (Ω,μ)(Ω,μ) is measurable space with μ(Ω)<∞μ(Ω)<∞, here ΩΩ is a compact subset of CC. f,g∈L2(Ω)f,g∈L2(Ω) with μ({x:f(x)=0})=0μ({x:f(x)=0})=0. I want to find polynomial $..."
+Directional derivative with function composition,1,100,0,calculus,"1,616",2023,"Let f:Rd→R,  g:Rd×R→Rd with g(x,0)=x and suppose that for all x∈Rd both v(x):=∂tg(x,t)|t=0 ..."
+Suggestions for a 2nd year multivariable calculus presentation [closed],0,24,-2,multivariable-calculus,1,2023,"Suggestions for a 2nd year multivariable calculus presentation? im kinda interested in real life applications of 2nd order odes ( other than spring systems , since ive already presented on it once ) , ..."
+One definition of elementary sets,0,77,0,real-analysis,203,2023,"For a collection of measurable spaces (Ωi,Fi) for i∈A, where A can be infinite or even uncountable, the product σ-algebra ${{\mathcal F}_A := \prod_{i \in A}..."
+Expected number of dimes,2,52,1,probability,335,2023,"My wallet has 2 nickels and 10 dimes. The coins are to be drawn out 1-by-1 and I'm to receive all the dimes that are drawn between the 2 nickels. What's the expectation?
+My Approach:
+Draw the sequence ..."
+Question in Lemma 2.4.2 of Rick Durrett's Probability: Theory and Examples version 5,1,27,1,probability-theory,13,2023,"I was studying Durrett's proof of Strong Law of Large numbers and I got stuck while trying to understand the following Lemma:
+
+Let X1,X2,… be pairwise independent identically distributed ..."
+"u1,...,un∈V L.I.. Then for any v1,...,vn∈V, ∃ infinitely α s.t. u1+αv1,...,un+αvn L.I..",0,54,0,linear-algebra,282,2023,"Let V be a vector space over a field F and u1,...,un∈V are linearly independent. Prove that for any v1,...,vn∈V, u1+αv1,...,un+αvn are linearly ..."
+enderton logic exercise 4.1.3. - How can I prove number theory is 'implicitly definable' in second order language,0,25,1,logic,23,2023,"From ""A Mathematical Introduction to Logic"" (Enderton) excise 4.1.3
+Let ϕ be a formula in which only the n-place predicate variable X occurs free. Say that an n-ary relation R on |A| is ..."
+"Discrete-Time Fourier Transform: Why are signals at frequencies near even multiples of π slowly varying, but quickly varying near odd multiples?",1,19,0,fourier-transform,27,2023,"In Signals & Systems: Second Edition by Alan V. Oppenheim and Alan S. Willsky with S. Hamid Nawab, on page 362, it is stated that (with referenced figure shown below):
+
+Signals
+at frequencies near ..."
+"Automorphism groups of Z, Z[i], Z[ω]",0,36,0,ring-theory,35,2023,"I would like to know the automorphism groups of the rational integers Z, the Gaussian integers Z[i], and the Eisenstein integers Z[ω].
+My question is, would $\text{..."
+A question on exercise 10.6(b) in Munkres - Analysis on Manifolds,0,19,0,real-analysis,71,2023,"Let I=I1×⋯×In=[a1,b1]×⋯×[an,bn] be a n−rectangle. Let f: I⟶R be bounded and |f|≤M on I.
+Let P=P1×⋯×Pn be ..."
+Average probability of 0 determinant for integer matrix,1,85,1,linear-algebra,11,2023,"I'm new here. I am not a student of math, so my analytical skills are quite weak. However, I have been thinking about this question for a while:
+Given a 3x3 matrix whose elements are selected ..."
+Galois cohomology of quadratic extension [closed],0,64,-1,abstract-algebra,"5,142",2023,"Let K be a field of characteristic 0.
+Let L/K be a degree 2 extension.
+Let M be a Gal(L/K)-module.
+Is Galois cohomology Hi(Gal(L/K),M), i=0,1,2,…, always a 2-group, that ..."
+Basic Analysis Jiri Lebl Exercises 1.1.6 and 1.1.12,0,36,1,real-analysis,11,2023,"Firstly, I realise that my question has already been answered a few times, however I just wanted to verify the proof that I came up with for Exercise 1.1.6 in Lebl's Basic Analysis I:
+Let S be an ..."
+Conjecture for Integrals of the Form ∫10lnn(1−x2)1+xdx,2,296,7,calculus,"2,411",2023,"Recently I got interested in Logarithmic Integrals from this ∫10ln4(1−x2)1+xdx and sought out to find Higher Power variations.
+Let,
+$$I_n=\int_{0}^{1}\frac{\ln^n\..."
+"Trying to solve this differential equation, need help [closed]",0,36,-2,ordinary-differential-equations,1,2023,"Math Problem 2
+Regarding this question, I am unsure of how to proceed with this as I have barely scratched the topic of method variation of parameters, which does appear to be method which can be used...."
+Why does this approximation for binary entropy of cos2(t) hold?,1,68,0,probability,103,2023,"I stumbled on an approximation I found surprising while working on a bipartite entanglement entropy problem (which isn't particularly relevant). Alas, I got the following messy result:
+$f(x) = -\cos^2(..."
+How to handle the equality constraint that cannot be satisfied?,1,28,0,optimization,1,2023,"Given an optimization problem
+min xTMxs.t. Ax=b
+where an analytical solution called weighted general inverse exists.
+However, we now know that Ax = b some ..."
+Confusion regarding order of quantifiers probability,1,27,0,probability,263,2023,"Suppose I have a random variable W that can take values w1,w2,w3 with probability p1,p2,p3 with p1+p2+p3=1 (exhaustive) mutually exclusive.
+What is the difference between the ..."
+Proving the probability of pairwise independent hash function [closed],0,18,-1,probability,99,2023,"For a prime p we can generate a pairwise independent hash function by choosing a, b independently from
+the interval {0, . . . , p − 1} and using ax + b as a random number.
+Suppose we generate t
+pseudo ..."
+Problem regarding using identity theorem,1,64,0,complex-analysis,23,2023,"Is there an Analytic function f(z)≠0 throughout the open unit disc such that f(ninn+1)=0
+I tried using identity theorem. But the issue  is that the  sequence ninn+1is ..."
+"Determine the extremum if any of f(x,y)=2x4−3x2y+y2.",1,63,2,real-analysis,25,2023,"My work.
+f(x,y)=2x4−3x2y+y2. We differentiate partially and find fx=0 and fy=0, which is indeed 0 at (0,0). Now fxx=0, fyy=2 and fxy=0. Since $f_{xx}*f_{..."
+"Let V be finite dimensional complex vector space, d:V→V be linear map such that d2=0 and Δ=dd⋆+d⋆d. Prove the following",0,32,0,linear-algebra,282,2023,"Let V be finite dimensional complex vector space, d:V→V be linear map such that d2=0 and Δ=dd⋆+d⋆d, where d⋆ is the adjoint of d. Prove that
+(a) $dd^{\star}x=..."
+Is it possible to find a coordinate chart associated to a change of basis in the tangent space?,0,27,0,differential-geometry,"2,768",2023,"I am following Lee's Introduction to Smooth Manifolds, but this question is motivated from studying bases of vectors in the context of general relativity. Let M be a smooth n-manifold. In the ..."
+Find domain of Y=√⌊x⌋−1+√14−x [closed],3,83,-2,algebra-precalculus,11,2023,"How do I get the domain of
+Y=√⌊x⌋−1+√14−x?
+I know that ⌊x⌋−1+√14−x>0 and 14−x>0 and the maximum value of of x must be 14...."
+how to calculate the integral in Durrett Probability theorem 1.2.6? [duplicate],0,38,1,calculus,11,2023,"I'm trying to calculate the integral in the last row of theorem 1.2.6 of Durrett Probability
+To be specific, the integral is
+∫∞x(1−3y−4)exp(−y2/2)dy=(x−1−x−3)exp(−x2/2)
+..."
+Property of skew symmetric matrix [closed],1,40,0,matrices,11,2023,Prove that the determinent of a skew symmetric matrix of even order remains unchanged if the same number is added to all the elements
+Finding the distribution for the sum of two identical distributed random variables,1,30,2,probability,"3,842",2023,"Problem:
+Let X and  Y be identically distributed independent random variable with
+the density function
+f(y)={e−tt≥00otherwise
+..."
+In how many ways can n people be arranged in a row if two specified people are neither of them to be at either extremity of the row?,1,35,0,combinatorics,"1,274",2023,"My interpretation of the question: n people are to be placed in a row, with two specific individuals not allowed to be at the beginning nor the end of this row (they can interchange with each other ..."
+"How do I find a constant C, when x=a, through the tangent line? [closed]",1,50,1,calculus,31,2023,"The full question is as follows:
+For some constant C, the equation of the tangent line to the graph of
+y=f(x) = 4x4+C
+at the point where x=a is
+y=−78.608x−106.1252
+Find C.
+My ..."
+How many modal logics are there? [closed],0,33,1,modal-logic,No detail available,2023,"How many propositional modal logics exist? Is it a finite number, countably infinite, or continuum-sized? Of course, to answer this question, we would need a definition of a propositional modal logic."
+When is F×pk≅Z×m for k>1?,1,389,14,group-theory,149,2023,"Let F×pk denote the group of units of a finite field, and let Z×m denote the group of units modulo some integer m. I'm curious about when $\mathbb{F}_{p^k}^..."
+What do brackets mean in maths?,2,301,1,notation,67,2023,"I know that brackets are used to group variables and numbers together.
+Do brackets serve the same purpose when they are used with other 'objects' such as matrices or vectors?
+For example, when ..."
+Constructing a sparse subgraph of original weighted undirected graph with approximation algorithm,2,30,1,graph-theory,173,2023,"In Kruskal's algorithm, we sort edges from least weight to greatest weight and add the edge if and only if both endpoints are in different connected components in current iteration.
+Now the question ..."
+How is Conway numbering the hyperbolic groups in his Table 18.1?,1,41,-1,group-theory,349,2023,"Conway lists many hyperbolic groups in his Table 18.1 on pages 239-240 of The Symmetries of Things.  Here are scans of those pages:
+
+and
+
+The groups are sorted in decreasing order of their ..."
+How to evaluate ∫(π+√xln(x))4ln(2)√x−exsin(x)dx [closed],0,79,-1,calculus,873,2023,"\begin{align*}
+&\int \frac{(\pi + \sqrt{x} \ln (x))^{4}}{\ln(2) \sqrt{x - e^{x}\sin(x)}} \, dx \\
+&= \int \frac{u^4}{\ln(2) \sqrt{\frac{x}{x - e^{x} \sin(x)}} \cdot \frac{\ln(2)}{2} \sqrt{\..."
+Does this optimization algorithm have a name?,0,32,0,optimization,"1,006",2023,"Let a<x<y<b, and suppose that the continuous function f is unimodal (has one weak local maximum) on [a,b]. If f(x)≥f(y), then for any z∈(y,b], we must have f(y)>f(z), ..."
+Trace Inequality: prove that for arbitrary square matrix A and B: tr((A+B)(A+B)^T) \leq 2 * tr(AA^T+BB^T),1,87,1,linear-algebra,53,2023,"prove that for arbitrary square matrix A and B:
+tr((A+B)(A+B)T)≤2⋅tr(AAT+BBT)
+
+Here is what i did so far:
+left side:
+tr((A+B)(A+B)T)=tr(AAT)+tr(ABT)+tr(BAT)+tr(BBT)
+..."
+Equivalence between quadratic maximization problems with equality and inequality constraints,1,41,1,optimization,13,2023,"In the traditional PCA setting, we have the optimization problem formulated as
+\begin{align*}
+&\underset{\mathbf{x}\in\mathbb{R}^n}{\text{max}}\ \mathbf{x}^T\mathbf{A}\mathbf{x}\\
+&\text{s.t.}\..."
+Average area of a Polygon [closed],0,37,0,probability,11,2023,"If we choose n points randomly on the Euclidean number plane all with coordinates x and y both between 0 and 1 with a uniform distribution, then create a simple polygon with these points as ..."
+"Function that maps (binary representation of) x∈[0,1] to number given by the “even bits” of x",0,56,0,real-analysis,143,2023,"I’m just wondering if there’s a name for the function defined below.
+
+Write x uniquely in base 2 (i.e. not ending in an infinite string of ones) as x=∑∞k=0xk2k. Define $..."
+Is there a nonlinear map that preserves the norm but not the inner product? [closed],1,51,-1,linear-algebra,1,2023,"Linear maps between inner product spaces preserve the inner product if they preserve the norm.
+What about nonlinear maps?
+I can’t come up with a counterexample, nor can I prove it."
+"Given a point P, calculate the closest point C on n lines [closed]",0,29,-1,geometry,99,2023,"I'm trying to snap a point to a given route, as defined by a sequence of intervals, and while there are brute force ways to do it, I'm wondering if there is a more efficient algorithm that solves the ..."
+Proof on representing the incomplete beta function as a hypergeometric function,0,36,1,hypergeometric-function,157,2023,"The incomplete beta function is defined as
+B(x;c,d)=∫x0tc−1(1−t)d−1dt.
+The hypergeometric representation  of the incomplete Beta function is given by
+\begin{equation}
+B\left(x; c,d \..."
+Understanding the parameters in Stommel's Two-Box Model (a model of ocean circulation based on temperature and salinity),0,23,1,ordinary-differential-equations,11,2023,"I am trying to wrap my head around Stommel's Two-Box Model of ocean circulation (specifically of the North Atlantic).
+The general idea of this model is as follows: Diagram of Stommel's Two-Box Model
+$..."
+eigenvector of a companion matrix [closed],0,22,-3,matrices,1,2023,"Consider the matrix
+$$
+A=\begin{bmatrix}
+0 & 1 & 0 &\cdots & 0\\
+0 & 0 & 1 &\cdots & 0 \\
+\vdots&\vdots &\vdots&\ddots&\vdots\\
+0 & 0 & 0 &\..."
+"Orthonormal Basis in L2[0,5/8]",0,48,1,real-analysis,34,2023,"It is well-known that the Haar wavelet system forms an orthonormal basis for L2[0,1]. I am interested in forming a similar orthonormal basis for L2[0,58]. We write $[0, \frac58] = [0,\..."
+Induction involving binomial coefficients (nk),0,38,0,combinatorics,369,2023,"Why, many times, in problems involving binomial coefficients, (nk), that we need induction to prove something, we use induction on k instead on n. Since n limits k, it seems strange ..."
+"Examples of ""natural"" combinatorial functions for which it has been proven that there is no closed-form expression",2,56,2,combinatorics,No detail available,2023,"I would be very interested for examples of ""natural"" combinatorial functions for which it has been rigorously proven that there is no closed-from expression. By ""natural"", I mean, ..."
+Area of a segment of egg-shaped structure (egg shaped sewer in my case) [closed],0,18,-2,integration,1,2023,"There is an equation to calculate the cross-sectional area of egg shaper sewer when pipe is in full flow condition. When the pipe is partially filled, Can an equation be derived to calculate the area ..."
+"∀n∈Z+, Sn is the set of points p with equal distance to the origin as their minimum distance from any point in Sn−1",0,33,0,geometry,873,2023,"Let S0={(1,0)}.
+For all positive integers n, Sn is the set of points p with equal distance to the origin as their minimum distance from any point in Sn−1
+We need to find the area ..."
